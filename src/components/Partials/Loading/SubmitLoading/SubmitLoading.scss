@@ -1,0 +1,19 @@
+.loading-container{
+    background-color: black;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.4;
+
+    img {
+        width: auto;
+    }
+    
+  }
